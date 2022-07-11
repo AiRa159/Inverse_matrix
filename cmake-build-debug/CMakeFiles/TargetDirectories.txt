@@ -1,0 +1,3 @@
+C:/Users/ayara/Desktop/Прошлые работы СVUT/pjc_sem_works/pjc_sem_work/cmake-build-debug/CMakeFiles/pjc_sem_work.dir
+C:/Users/ayara/Desktop/Прошлые работы СVUT/pjc_sem_works/pjc_sem_work/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ayara/Desktop/Прошлые работы СVUT/pjc_sem_works/pjc_sem_work/cmake-build-debug/CMakeFiles/rebuild_cache.dir

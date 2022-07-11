@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\pjc_sem_work.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\pjc_sem_work.dir/objects.a @CMakeFiles\pjc_sem_work.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\pjc_sem_work.dir/objects.a -Wl,--no-whole-archive -o pjc_sem_work.exe -Wl,--out-implib,libpjc_sem_work.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\pjc_sem_work.dir\linklibs.rsp
